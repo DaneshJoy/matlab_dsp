@@ -5,7 +5,7 @@ Codes from my MATLAB Digital Signal Processing courses
 > Live script files (.mlx) require MATLAB version >= R2016a
 -------------------------------------
 
-### Videos (*in Persian)
+### Videos (in Persian)
 
 - Session 1
   - Part1: [Youtube](https://youtu.be/Qfki1clmsPs) | [Aparat](https://www.aparat.com/v/kl1eE)
