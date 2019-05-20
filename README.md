@@ -1,7 +1,8 @@
+<p align="left">
+  <img src="./res/logo.png" width="200" title="DaneshJoy" alt="DaneshJoy>
+</p>
+                                                               
 # MatlabDSP
-
-![alt text](https://github.com/DaneshJoy/MatlabDSP/master/res/logo.png)
-
 Codes from my MATLAB Digital Signal Processing courses
 
 > Live script files (.mlx) require MATLAB version >= R2016a
