@@ -7,11 +7,17 @@ Codes from my MATLAB Digital Signal Processing courses
 
 **Videos (in Persian)**
 
-- SinePlay
-  - Part1: Tips and tricks in creating Sine signals in MATLAB >> [Youtube](https://youtu.be/Qfki1clmsPs) | [Aparat](https://www.aparat.com/v/kl1eE)
-  - Part2: Tips and tricks in calculating FFT of signals in MATLAB >> [Youtube](https://youtu.be/27PBMl7l6sk) | [Aparat](https://www.aparat.com/v/oYOB7)
-  - Part3: Simple Peak detection of FFT signal + fprintf command >> [Youtube](https://youtu.be/yYXC3fu3Dpo) | [Aparat](https://www.aparat.com/v/B63Lo)
-  - Part4: Effect of Noise in Time and Frequency Domains >> [Youtube](https://youtu.be/4_hRsE792kA)
+- 01_SinePlay
+  - Part 1: Tips and tricks in creating Sine signals in MATLAB >> [Youtube](https://youtu.be/Qfki1clmsPs) | [Aparat](https://www.aparat.com/v/kl1eE)
+  - Part 2: Tips and tricks in calculating FFT of signals in MATLAB >> [Youtube](https://youtu.be/27PBMl7l6sk) | [Aparat](https://www.aparat.com/v/oYOB7)
+  - Part 3: Simple Peak detection of FFT signal + fprintf command >> [Youtube](https://youtu.be/yYXC3fu3Dpo) | [Aparat](https://www.aparat.com/v/B63Lo)
+  - Part 4: Effect of Noise in Time and Frequency Domains >> [Youtube](https://youtu.be/4_hRsE792kA)
+  
+- 02_ECG_PeakAnalysis
+  - Part 1: ECG Signal Detrending >> [Youtube](https://youtu.be/c-qYhtngcjU)
+  - Part 2: ECG R/S Peak Detection >> [Youtube](https://youtu.be/ASyLt3KfTBk)
+  - Part 3: ECG Smoothing + Q Peak Detection >> [Youtube](https://youtu.be/a4GSkAt845E)
+  - Part 4: ECG Peak Detection Error and Peak Properties Report >> [Youtube](https://youtu.be/BenNWPkpSoM)
 -------------------------------------
 
 <p align="center">
