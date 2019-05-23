@@ -16,7 +16,7 @@ Codes from my MATLAB Digital Signal Processing courses
 - 02_ECG_PeakAnalysis
   - Part 1: ECG Signal Detrending >> [Youtube](https://youtu.be/c-qYhtngcjU) | [Aparat](https://www.aparat.com/v/ihHDt)
   - Part 2: ECG R/S Peak Detection >> [Youtube](https://youtu.be/ASyLt3KfTBk) | [Aparat](https://www.aparat.com/v/qyzd2)
-  - Part 3: ECG Smoothing + Q Peak Detection >> [Yohttps://youtu.be/ASyLt3KfTBk)utube](https://youtu.be/a4GSkAt845E) | [Aparat](https://www.aparat.com/v/I8BkE)
+  - Part 3: ECG Smoothing + Q Peak Detection >> [Youtube](https://youtu.be/a4GSkAt845E) | [Aparat](https://www.aparat.com/v/I8BkE)
   - Part 4: ECG Peak Detection Error and Peak Properties Report >> [Youtube](https://youtu.be/BenNWPkpSoM) | [Aparat](https://www.aparat.com/v/zr1Tv)
 -------------------------------------
 
