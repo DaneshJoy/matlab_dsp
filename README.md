@@ -9,6 +9,7 @@
 **Videos (in Persian)**
   
 - 01_SinePlay
+
 | Title | Link 1 | Link 2 |
 | :---- | :----: | :----: |
 | Part 1: Tips and tricks in creating Sine signals in MATLAB | [Youtube](https://youtu.be/Qfki1clmsPs) | [Aparat](https://www.aparat.com/v/kl1eE) |
@@ -17,6 +18,7 @@
 | Part 4: Effect of Noise in Time and Frequency Domains | [Youtube](https://youtu.be/4_hRsE792kA) | [Aparat](https://www.aparat.com/v/iZROx) |
   
 - 02_ECG_PeakAnalysis
+
 | Title | Link 1 | Link 2 |
 | :---- | :----: | :----: |
 | Part 1: ECG Signal Detrending | [Youtube](https://youtu.be/c-qYhtngcjU) | [Aparat](https://www.aparat.com/v/ihHDt) |
