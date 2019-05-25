@@ -8,9 +8,9 @@
 
 
 
-### Videos (in Persian)
+## Videos (in Persian)
   
-#### 1- SinePlay
+### 1- SinePlay
 
 ||||
 | :---- | :----: | :----: |
@@ -21,7 +21,7 @@
 
 -------------------------------------
 
-#### 2- ECG PeakAnalysis
+### 2- ECG PeakAnalysis
 
 ||||
 | :---- | :----: | :----: |
