@@ -30,6 +30,8 @@
 -------------------------------------
 
 <p align="center">
+  <a href="https://daneshjoy.github.io/MatlabDSP/">
     <img src="./res/logo.png" width="300px" title="DaneshJoy" alt="DaneshJoy"> 
+  </a>
 </p>
 
