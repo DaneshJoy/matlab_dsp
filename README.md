@@ -1,6 +1,6 @@
                                                                
 # MatlabDSP
-## Codes from my MATLAB Digital Signal Processing course
+## Codes from our MATLAB Digital Signal Processing course
 
 > Live script files (.mlx) require MATLAB version >= R2016a
 
