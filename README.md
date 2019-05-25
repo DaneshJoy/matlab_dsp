@@ -8,7 +8,7 @@
 
 ### Videos (in Persian)
   
-- 01_SinePlay
+- **01_SinePlay**
 
 |       |        |        |
 | :---- | :----: | :----: |
@@ -17,7 +17,7 @@
 | Part 3: Simple Peak detection of FFT signal + fprintf command | [Youtube](https://youtu.be/yYXC3fu3Dpo) | [Aparat](https://www.aparat.com/v/B63Lo) |
 | Part 4: Effect of Noise in Time and Frequency Domains | [Youtube](https://youtu.be/4_hRsE792kA) | [Aparat](https://www.aparat.com/v/iZROx) |
   
-- 02_ECG_PeakAnalysis
+- **02_ECG_PeakAnalysis**
 
 |       |        |        |
 | :---- | :----: | :----: |
