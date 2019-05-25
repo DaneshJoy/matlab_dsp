@@ -8,7 +8,7 @@
 
 ## Videos (in Persian)
   
-### **01 SinePlay**
+### 1- SinePlay
 |       |        |        |
 | :---- | :----: | :----: |
 | Part 1: Tips and tricks in creating Sine signals in MATLAB | [Youtube](https://youtu.be/Qfki1clmsPs) | [Aparat](https://www.aparat.com/v/kl1eE) |
@@ -16,7 +16,7 @@
 | Part 3: Simple Peak detection of FFT signal + fprintf command | [Youtube](https://youtu.be/yYXC3fu3Dpo) | [Aparat](https://www.aparat.com/v/B63Lo) |
 | Part 4: Effect of Noise in Time and Frequency Domains | [Youtube](https://youtu.be/4_hRsE792kA) | [Aparat](https://www.aparat.com/v/iZROx) |
   
-### **02 ECG PeakAnalysis**
+### 2- ECG PeakAnalysis
 |       |        |        |
 | :---- | :----: | :----: |
 | Part 1: ECG Signal Detrending | [Youtube](https://youtu.be/c-qYhtngcjU) | [Aparat](https://www.aparat.com/v/ihHDt) |
