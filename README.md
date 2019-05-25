@@ -6,11 +6,12 @@
 
 -------------------------------------
 
+
+
 ## Videos (in Persian)
   
 ### 1- SinePlay
-
-|       |        |        |
+|**SinePlay**|||
 | :---- | :----: | :----: |
 | Part 1: Tips and tricks in creating Sine signals in MATLAB | [Youtube](https://youtu.be/Qfki1clmsPs) | [Aparat](https://www.aparat.com/v/kl1eE) |
 | Part 2: Tips and tricks in calculating FFT of signals in MATLAB | [Youtube](https://youtu.be/27PBMl7l6sk) | [Aparat](https://www.aparat.com/v/oYOB7) |
@@ -20,7 +21,7 @@
 
 ### 2- ECG PeakAnalysis
 
-|       |        |        |
+|**ECG PeakAnalysis**|||
 | :---- | :----: | :----: |
 | Part 1: ECG Signal Detrending | [Youtube](https://youtu.be/c-qYhtngcjU) | [Aparat](https://www.aparat.com/v/ihHDt) |
 | Part 2: ECG R/S Peak Detection | [Youtube](https://youtu.be/ASyLt3KfTBk) | [Aparat](https://www.aparat.com/v/qyzd2) |
