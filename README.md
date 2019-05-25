@@ -14,7 +14,7 @@
 
 ||||
 | :---- | :----: | :----: |
-| Part 1: Tips and tricks in creating Sine signals in MATLAB | [Youtube](https://youtu.be/Qfki1clmsPs) | [Aparat](https://www.aparat.com/v/kl1eE) |
+| Part 1: Tips and tricks in creating Sine signals in MATLAB | [Youtube](https://youtu.be/Qfki1clmsPs/?target=_blank) | [Aparat](https://www.aparat.com/v/kl1eE/?target=_blank) |
 | Part 2: Tips and tricks in calculating FFT of signals in MATLAB | [Youtube](https://youtu.be/27PBMl7l6sk) | [Aparat](https://www.aparat.com/v/oYOB7) |
 | Part 3: Simple Peak detection of FFT signal + fprintf command | [Youtube](https://youtu.be/yYXC3fu3Dpo) | [Aparat](https://www.aparat.com/v/B63Lo) |
 | Part 4: Effect of Noise in Time and Frequency Domains | [Youtube](https://youtu.be/4_hRsE792kA) | [Aparat](https://www.aparat.com/v/iZROx) |
