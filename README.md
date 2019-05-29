@@ -9,9 +9,7 @@
 ## لینک ویدیوهای آموزشی برای هر کد
 
   
-### 1- SinePlay
-
-  
+### 1- SinePlay 
 ||||
 | :----: | :----: | -----: |
 | [یوتیوب](https://youtu.be/Qfki1clmsPs) | [آپارات](https://www.aparat.com/v/kl1eE) | قسمت 1: ایجاد سیگنال سینوسی در متلب |
@@ -22,8 +20,7 @@
 
 -------------------------------------
 
-### 2- ECG PeakAnalysis
-
+### 2- ECG PeakAnalysis 
 ||||
 | :----: | :----: | -----: |
 | [یوتیوب](https://youtu.be/c-qYhtngcjU) | [آپارات](https://www.aparat.com/v/ihHDt) |  &#x202b; قسمت 1: حذف ترند سیگنال ECG  |
