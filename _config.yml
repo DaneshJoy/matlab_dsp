@@ -1,1 +1,10 @@
-theme: jekyll-theme-leap-day
+# theme: jekyll-theme-leap-day
+
+# theme                  : "minimal-mistakes-jekyll"
+# remote_theme           : "mmistakes/minimal-mistakes"
+minimal_mistakes_skin    : "dark" # "default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+
+# Site Settings
+locale                   : "fa-IR"
+title                    : "پردازش سیگنال دیجیتال در متلب"
+name                     : "سعید محققی Saeed Mohagheghi"
