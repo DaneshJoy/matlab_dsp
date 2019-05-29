@@ -1,33 +1,35 @@
                                                                
 # MatlabDSP
-**Codes from our MATLAB Digital Signal Processing course**
+<p> &#x202b; **کدهای کلاس پردازش سیگنال با متلب** </p>
 
-> Live script (.mlx) files require MATLAB version >= R2016a
+> <p> &#x202b; برای اجرای کدها باید ورژن متلب بالاتر از 2016a باشد</p>
 
 -------------------------------------
 
-## Videos (in Persian)
+## لینک ویدیوهای آموزشی برای هر کد
 
   
 ### 1- SinePlay
 
+  
 ||||
-| :---- | :----: | :----: |
-| Part 1: Tips and tricks in creating Sine signals in MATLAB | [Youtube](https://youtu.be/Qfki1clmsPs) | [Aparat](https://www.aparat.com/v/kl1eE) |
-| Part 2: Tips and tricks in calculating FFT of signals in MATLAB | [Youtube](https://youtu.be/27PBMl7l6sk) | [Aparat](https://www.aparat.com/v/oYOB7) |
-| Part 3: Simple Peak detection of FFT signal + fprintf command | [Youtube](https://youtu.be/yYXC3fu3Dpo) | [Aparat](https://www.aparat.com/v/B63Lo) |
-| Part 4: Effect of Noise in Time and Frequency Domains | [Youtube](https://youtu.be/4_hRsE792kA) | [Aparat](https://www.aparat.com/v/iZROx) |
+| :----: | :----: | -----: |
+| [یوتیوب](https://youtu.be/Qfki1clmsPs) | [آپارات](https://www.aparat.com/v/kl1eE) | قسمت 1: ایجاد سیگنال سینوسی در متلب |
+| [یوتیوب](https://youtu.be/27PBMl7l6sk) | [آپارات](https://www.aparat.com/v/oYOB7) | قسمت 2: نکات محاسبه تبدیل فوریه در متلب |
+| [یوتیوب](https://youtu.be/yYXC3fu3Dpo) | [آپارات](https://www.aparat.com/v/B63Lo) | قسمت 3: تشخیص پیک ساده و نمایش نتایج |
+| [یوتیوب](https://youtu.be/4_hRsE792kA) | [آپارات](https://www.aparat.com/v/iZROx) | قسمت 4: تاثیر نویز در حوزه های زمان و فرکانس |
+
 
 -------------------------------------
 
 ### 2- ECG PeakAnalysis
 
 ||||
-| :---- | :----: | :----: |
-| Part 1: ECG Signal Detrending | [Youtube](https://youtu.be/c-qYhtngcjU) | [Aparat](https://www.aparat.com/v/ihHDt) |
-| Part 2: ECG R/S Peak Detection | [Youtube](https://youtu.be/ASyLt3KfTBk) | [Aparat](https://www.aparat.com/v/qyzd2) |
-| Part 3: ECG Smoothing + Q Peak Detection | [Youtube](https://youtu.be/a4GSkAt845E) | [Aparat](https://www.aparat.com/v/I8BkE) |
-| Part 4: ECG Peak Detection Error and Peak Properties Report | [Youtube](https://youtu.be/BenNWPkpSoM) | [Aparat](https://www.aparat.com/v/zr1Tv) |
+| :----: | :----: | -----: |
+| [یوتیوب](https://youtu.be/c-qYhtngcjU) | [آپارات](https://www.aparat.com/v/ihHDt) | <p> &#x202b; قسمت 1: حذف ترند سیگنال ECG </p> |
+| [یوتیوب](https://youtu.be/ASyLt3KfTBk) | [آپارات](https://www.aparat.com/v/qyzd2) | <p> &#x202b; قسمت 2: تشخیص پیک های R و S در سیگنال ECG </p> |
+| [یوتیوب](https://youtu.be/a4GSkAt845E) | [آپارات](https://www.aparat.com/v/I8BkE) | <p> &#x202b; قسمت 3: حذف نویز فرکانس بالا و تشخیص پیک Q </p>|
+| [یوتیوب](https://youtu.be/BenNWPkpSoM) | [آپارات](https://www.aparat.com/v/zr1Tv) | قسمت 4: گزارش خطای تشخیص پیک و مشخصات زمانی پیک ها |
  
   
 -------------------------------------
