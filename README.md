@@ -2,7 +2,9 @@
 # MatlabDSP
 **کدهای کلاس پردازش سیگنال با متلب**
 
-دانلود کدها: <a href="https://github.com/DaneshJoy/MatlabDSP/zipball/master"> zip فایل </a> 
+**دانلود کدها: <a href="https://github.com/DaneshJoy/MatlabDSP/zipball/master"> zip فایل </a>**
+
+<button name="button" onclick="https://github.com/DaneshJoy/MatlabDSP/zipball/master">zip فایل</button>
 
 > <p> &#x202b; برای اجرای کدها باید ورژن متلب بالاتر از 2016a باشد</p>
 
