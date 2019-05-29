@@ -1,6 +1,9 @@
-theme: jekyll-theme-leap-day
+theme                     : jekyll-theme-leap-day
 
 # Site Settings
-locale                   : "fa-IR"
-title                    : "پردازش سیگنال دیجیتال در متلب"
-name                     : "سعید محققی Saeed Mohagheghi"
+locale                    : "fa-IR"
+title                     : "Matlab DSP"
+name                      : "سعید محققی Saeed Mohagheghi"
+
+description               : "پردازش سیگنال دیجیتال در متلب"
+show_downloads            : true
