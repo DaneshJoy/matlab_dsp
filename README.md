@@ -9,7 +9,7 @@
 ## لینک ویدیوهای آموزشی برای هر کد
 
   
-### 1- SinePlay 
+### 1- SinePlay &nbsp;
 ||||
 | :----: | :----: | -----: |
 | [یوتیوب](https://youtu.be/Qfki1clmsPs) | [آپارات](https://www.aparat.com/v/kl1eE) | قسمت 1: ایجاد سیگنال سینوسی در متلب |
