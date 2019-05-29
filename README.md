@@ -26,9 +26,9 @@
 
 ||||
 | :----: | :----: | -----: |
-| [یوتیوب](https://youtu.be/c-qYhtngcjU) | [آپارات](https://www.aparat.com/v/ihHDt) | <p> &#x202b; قسمت 1: حذف ترند سیگنال ECG </p> |
-| [یوتیوب](https://youtu.be/ASyLt3KfTBk) | [آپارات](https://www.aparat.com/v/qyzd2) | <p> &#x202b; قسمت 2: تشخیص پیک های R و S در سیگنال ECG </p> |
-| [یوتیوب](https://youtu.be/a4GSkAt845E) | [آپارات](https://www.aparat.com/v/I8BkE) | <p> &#x202b; قسمت 3: حذف نویز فرکانس بالا و تشخیص پیک Q </p>|
+| [یوتیوب](https://youtu.be/c-qYhtngcjU) | [آپارات](https://www.aparat.com/v/ihHDt) |  &#x202b; قسمت 1: حذف ترند سیگنال ECG  |
+| [یوتیوب](https://youtu.be/ASyLt3KfTBk) | [آپارات](https://www.aparat.com/v/qyzd2) |  &#x202b; قسمت 2: تشخیص پیک های R و S در سیگنال ECG  |
+| [یوتیوب](https://youtu.be/a4GSkAt845E) | [آپارات](https://www.aparat.com/v/I8BkE) |  &#x202b; قسمت 3: حذف نویز فرکانس بالا و تشخیص پیک Q |
 | [یوتیوب](https://youtu.be/BenNWPkpSoM) | [آپارات](https://www.aparat.com/v/zr1Tv) | قسمت 4: گزارش خطای تشخیص پیک و مشخصات زمانی پیک ها |
  
   
