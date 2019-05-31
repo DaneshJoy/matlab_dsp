@@ -2,3 +2,10 @@
 ---
 
 @import "{{ site.theme }}";
+
+@font-face {
+    font-family: serif;
+    src: url("../MatlabDSP/BYEKAN.ttf") format('truetype');
+    font-weight: bold;
+    font-style: normal;
+}
