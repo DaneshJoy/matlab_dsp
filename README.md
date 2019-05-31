@@ -37,7 +37,7 @@
 
 <p align="center">
   <a href="https://daneshjoy.github.io">
-    <img src="./res/logo.png" width="300px" title="DaneshJoy" alt="DaneshJoy"> 
+    <img src="./res/DaneshJoy.png" width="300px" title="DaneshJoy" alt="DaneshJoy"> 
   </a>
 </p>
 
