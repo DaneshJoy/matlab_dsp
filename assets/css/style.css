@@ -5,7 +5,7 @@
 
 @font-face {
     font-family: "Times New Roman", Times, serif;
-    src: url("../MatlabDSP/res/BYEKAN.ttf") format('truetype');
+    src: url("/res/BYEKAN.ttf") format('truetype');
     font-weight: normal;
     font-style: normal;
 }
