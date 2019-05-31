@@ -4,8 +4,8 @@
 @import "{{ site.theme }}";
 
 @font-face {
-    font-family: "Times New Roman", Times, serif;
-    src: url("/res/BYEKAN.ttf") format('truetype');
+    font-family: "BYEKAN", Times, serif;
+    src: url("../res/BYEKAN.ttf") format('truetype');
     font-weight: normal;
     font-style: normal;
 }
