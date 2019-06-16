@@ -41,7 +41,7 @@
 -------------------------------------
 
 <p align="center">
-  <a href="https://daneshjoy.github.io">
+  <a href="https://daneshjoy.ir">
     <img src="./res/DaneshJoy.png" width="300px" title="DaneshJoy" alt="DaneshJoy"> 
   </a>
 </p>
