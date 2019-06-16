@@ -7,7 +7,7 @@
 
 --------------------
 
-**دانلود کدها:** <button name="button" onclick="https://github.com/DaneshJoy/MatlabDSP/archive/master">zip فایل</button> <a class="github-button" href="https://github.com/DaneshJoy/MatlabDSP/archive/master.zip" data-icon="octicon-cloud-download" data-size="large" aria-label="Download DaneshJoy/MatlabDSP on GitHub">Download</a>
+**دانلود کدها:** <button name="button" onclick="https://github.com/DaneshJoy/matlabmip/zipball/master">zip فایل</button> <a class="github-button" href="https://github.com/DaneshJoy/MatlabDSP/archive/master.zip" data-icon="octicon-cloud-download" data-size="large" aria-label="Download DaneshJoy/MatlabDSP on GitHub">Download</a>
 
 > <p> &#x202b; برای اجرای کدها باید ورژن متلب بالاتر از 2016a باشد</p>
 
