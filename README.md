@@ -3,7 +3,7 @@
 **کدهای کلاس پردازش سیگنال با متلب**
 
 
-وب سایت: http://daneshjoy.ir/matlabdsp
+وب سایت: http://daneshjoy.ir/matlab/dsp
 
 --------------------
 
