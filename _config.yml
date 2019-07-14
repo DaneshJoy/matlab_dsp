@@ -7,3 +7,5 @@ name                      : "سعید محققی Saeed Mohagheghi"
 
 description               : "پردازش سیگنال دیجیتال در متلب"
 show_downloads            : true
+
+theme: jekyll-theme-architect
